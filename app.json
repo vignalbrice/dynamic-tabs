@@ -1,0 +1,12 @@
+{
+  "name": "dynamic-tabs",
+  "displayName": "dynamic-tabs",
+  "expo": {
+    "name": "dynamic-tabs",
+    "slug": "dynamic-tabs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
